@@ -1,4 +1,4 @@
-### Hi! I'm Leonardo Ohashi 👋
+### Hi! I'm Leonardo Ohashi (Takai)
 
 <center>
 <table>
