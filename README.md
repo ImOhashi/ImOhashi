@@ -1,4 +1,4 @@
-### Hi! I'm Leonardo Ohashi (Takai)
+<h1>Hi! I'm Leonardo Ohashi (Takai)</h1>
 
 <center>
 <table>
