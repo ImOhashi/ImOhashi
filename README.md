@@ -1,5 +1,9 @@
 <h1>Hi! I'm Leonardo Ohashi (Takai)</h1>
 
+<p>
+  Software engineer, Node.JS programmer, Golang lover and curious about Java!
+</p>
+
 <center>
 <table>
   <tr>
