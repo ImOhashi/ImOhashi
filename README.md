@@ -1,6 +1,6 @@
 ## Hi! I'm Leonardo Ohashi
 
-- 💻 Software Engineer at everis Brasil
+- 💻 Software Engineer at NTT DATA Brasil
 - 🤔 Back-end technology explorer
 - 🌱 Learning more about Cloud Architecture and DevOps
 
