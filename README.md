@@ -1,6 +1,6 @@
 ## Hi! I'm Leonardo Ohashi
 
-- 💻 Software Engineer at NTT DATA BRASIL
+- 💻 Software Engineer at Itaú Unibanco
 - 🤔 Back-end technology explorer
 - 🌱 Learning more about Cloud Architecture and DevOps
 
