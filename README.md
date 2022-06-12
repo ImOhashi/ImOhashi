@@ -1,6 +1,6 @@
 ## Hi! I'm Leonardo Ohashi
 
-- 💻 Software Engineer at Itaú Unibanco
+- 💻 Software Engineer at C6 Bank
 - 🤔 Back-end technology explorer
 - 🌱 Learning more about Cloud Architecture and DevOps
 
