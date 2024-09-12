@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Itaú Unibanco**
 
-- 🌱 I’m currently learning **back-end and data engineering**
+- 🌱 I’m currently learning **back-end, cloud and data engineering**
 
 - 📝 I initial writer articles on [https://medium.com/@leonardoohashi.mkt](https://medium.com/@leonardoohashi.mkt)
 
