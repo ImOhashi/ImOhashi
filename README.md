@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **back-end, cloud and data engineering**
 
-- 📝 I initial writer articles on [https://medium.com/@leonardoohashi.mkt](https://medium.com/@leonardoohashi.mkt)
+- 📝 I beginner writing articles on [https://medium.com/@leonardoohashi.mkt](https://medium.com/@leonardoohashi.mkt)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/leonardo-fonseca-ohashi/](https://www.linkedin.com/in/leonardo-fonseca-ohashi/)
 
