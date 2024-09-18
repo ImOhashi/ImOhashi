@@ -1,5 +1,6 @@
-### <div align="center">I'm Leonardo, a full-time software engineer 👨‍💻</div>  
-  
+<div align=center>  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Handjet&weight=500&size=35&pause=1000&color=FFFFFF&center=true&vCenter=&width=435&lines=I'm+Leo+Ohashi;+a+software+engineer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+</div>
 
 - 🔭 I’m currently working on Itaú Unibanco  
   
